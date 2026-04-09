@@ -16,6 +16,7 @@
     <Project Path="lab-6-mini-chatgpt-b1/src/Lib.TokenizationTeamA2/Lib.Tokenization.Tests/Lib.Tokenization.Tests.csproj" />
     <Project Path="lab-6-mini-chatgpt-b1/tests/Integration.DataPipeline/Integration.DataPipeline.csproj" />
     <Project Path="lab-6-mini-chatgpt-b2/tests/IntegrationTests/IntegrationTests.csproj" />
+    <Project Path="NGram/NGram.Tests/NGram.csproj" />
   </Folder>
 
 </Solution>
