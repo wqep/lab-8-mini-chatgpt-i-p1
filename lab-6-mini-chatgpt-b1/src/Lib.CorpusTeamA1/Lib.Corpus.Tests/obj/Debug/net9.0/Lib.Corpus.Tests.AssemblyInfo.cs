@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lib.Corpus.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3f5e88ae7c305e9ddf765a06ec9683db9c3ca371")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+323676431deaf0af93e63e034b550c5592a1a9d1")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lib.Corpus.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lib.Corpus.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
